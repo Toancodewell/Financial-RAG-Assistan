@@ -98,4 +98,5 @@ Handling PDFs in a financial context requires high precision to maintain the int
 | streamlit / FastAPI   | Web frontend / API server                     |
 | orjson                | Fast JSON parsing                             |
 
-
+🖥️ System Demo Screenshot
+<img src="1764A740-5AA0-44FB-A780-8D029184922B.jpeg" alt="Financial RAG Assistant Demo" width="800"/>
