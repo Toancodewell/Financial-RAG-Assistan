@@ -1,6 +1,6 @@
 # 🏢 Internal RAG Chatbot – Financial-RAG-Assistan
 
-**Financial-RAG-Assistan** is an internal **intelligent chatbot** project using **Retrieval-Augmented Generation (RAG)** to support searching, querying, and sharing internal financial information, illustrated for a fictitious company like Korea Study / Samsung.
+**Financial-RAG-Assistan** is an internal **intelligent chatbot** project using **Retrieval-Augmented Generation (RAG)** to support searching, querying, and sharing internal financial information, illustrated for a fictitious company like Samsung.
 
 The system combines **retrieval** and **generation**, ensuring AI answers are accurate based on actual data, cite sources, include numerical units, and avoid speculation.
 
